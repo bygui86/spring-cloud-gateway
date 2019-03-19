@@ -16,6 +16,7 @@ mvnw clean spring-boot:run
 * https://www.baeldung.com/spring-cloud-gateway-pattern - `TODO`
 * https://aboullaite.me/spring-cloud-gateway/ - `TODO`
 * https://cloud.spring.io/spring-cloud-gateway/single/spring-cloud-gateway.html
+* https://www.baeldung.com/spring-webflux-404
 
 ### OpenFeign
 

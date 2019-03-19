@@ -25,6 +25,12 @@ public class GatewayConfig {
 
 	UrlsConfig urlsConfig;
 
+	/**
+	 * Redirection to back-services
+	 *
+	 * @param routeLocatorBuilder
+	 * @return
+	 */
 	@Bean
 	RouteLocator gatewayRoutes(final RouteLocatorBuilder routeLocatorBuilder) {
 
